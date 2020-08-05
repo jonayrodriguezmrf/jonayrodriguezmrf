@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonay 👋
 
 ## I'm a Gamer and Developer!
-- 🔭 I’m currently working on a Marfeel!
+- 🔭 I’m currently working on Marfeel!
 - 🌱 I’m currently learning VueJS 🤣
 
 ### Connect with me:
