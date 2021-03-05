@@ -4,7 +4,6 @@
 
 ## I'm a Gamer and Developer!
 - 🔭 I’m currently working on Marfeel!
-- 🌱 I’m currently learning VueJS 🤣
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
